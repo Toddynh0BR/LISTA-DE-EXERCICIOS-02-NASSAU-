@@ -16,7 +16,7 @@ Data:  10/04/2026
 A lista consiste em 10 exercícios feitos em grupo (2 exercícios para cada aluno)
 utilizando as linguagens de programação portugol ou python para desenvolver um codigo que execute oque se pede no exercício.
 
-Devido a presença de 6 membros no grupo, duas questões foram repetidas e feitas por dois alunos diferentes, as questões 4 e 5.
+Devido a presença de 6 membros no grupo, duas questões foram repetidas e feitas por dois alunos diferentes, as questões 8 e 9.
 
 
 
