@@ -11,7 +11,7 @@ Data:  10/04/2026
 - Kauãn Felipe da Silva Melo - **01892125**
 - Áquila Pedro Joaquim Oliveira da Silva - **01890876**
 - Gustavo Nascimento da Silva - **01866201**
-- Thiago - ****
+- Thiago Henrique Pereira - **01892849**
 
 A lista consiste em 10 exercícios feitos em grupo (2 exercícios para cada aluno)
 utilizando as linguagens de programação portugol ou python para desenvolver um codigo que execute oque se pede no exercício.
