@@ -1,0 +1,39 @@
+[
+ {
+  "nome": "Kauãn Felipe da Silva Melo",
+  "matricula": "01892125",
+  "questões": ["", ""],
+  "github": ""
+ },
+ {
+  "nome": "Thiago Henrique Pereira",
+  "matricula": "01892849",
+  "questões": [6, 8],
+  "github": ""
+ },
+ {
+  "nome": "Guilherme Fortaleza de Souza",
+  "matricula": "01877047",
+  "questões": [3],
+  "github": ""
+ },
+ {
+  "nome": "Áquila Pedro Joaquim Oliveira da Silva",
+  "matricula": "01890876",
+  "questões": [1, 5],
+  "github": "Aquila-pedro"
+ },
+ {
+  "nome": "Gustavo Nascimento da Silva",
+  "matricula": "01866201",
+  "questões": [7, 8],
+  "github": "guuustavonds"
+ },
+ {
+  "nome": "Matheus Augusto Gomes da Silva",
+  "matricula": "01894714",
+  "questões": [9, 10],
+  "github": "Toddynh0BR"
+ }
+]
+
