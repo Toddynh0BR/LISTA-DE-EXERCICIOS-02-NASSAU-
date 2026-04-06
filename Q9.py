@@ -83,12 +83,4 @@ print(f"""📊Resultado da análise dos {repeticoes} clientes:
 🧒Menor Idade: {menor_idade};
 👩Mulheres com salario maior que R$ 3.000: {quantidade_feminino};
 🧔Clientes com idade acima de 50 anos: {quantidade_acima_50};   
-""")       
-        
-        
-        
-        
-        
-        
-        
- 
+""")
