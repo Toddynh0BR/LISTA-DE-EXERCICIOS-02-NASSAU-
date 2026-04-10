@@ -14,13 +14,13 @@
  {
   "nome": "Guilherme Fortaleza de Souza",
   "matricula": "01877047",
-  "questões": [3, 9],
+  "questões": [3, 9, 5],
   "github": ""
  },
  {
   "nome": "Áquila Pedro Joaquim Oliveira da Silva",
   "matricula": "01890876",
-  "questões": [1, 5],
+  "questões": [1],
   "github": "Aquila-pedro"
  },
  {
@@ -32,7 +32,7 @@
  {
   "nome": "Matheus Augusto Gomes da Silva",
   "matricula": "01894714",
-  "questões": [9, 10],
+  "questões": [9, 10, 6],
   "github": "Toddynh0BR"
  }
 ]
